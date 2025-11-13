@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1999,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone X",
+      "price": 24999,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Pro 14",
+      "price": 89999,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 4499,
+      "rating": 4.1,
+      "image": "https://images.unsplash.com/photo-1519744346366-d4f32b47f8e3"
+    }
+  ],
+  "users": [],
+  "orders": [
+    {
+      "orderId": 1762974662247,
+      "id": 1,
+      "name": "Wireless Headphones",
+      "price": 1999,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1519677100203-a0e668c92439",
+      "user": "guest",
+      "orderedAt": "2025-11-12T19:11:02.247Z"
+    }
+  ],
+  "wishlist": [],
+  "reviews": [],
+  "tickets": []
+}
